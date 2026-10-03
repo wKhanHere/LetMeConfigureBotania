@@ -1,0 +1,1 @@
+net.wkhan.lmcb.compat.kubejs.KubeJSLMCBPlugin

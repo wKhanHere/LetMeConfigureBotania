@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.wkhan.lmcb.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "plugin": "net.wkhan.lmcb.mixin.LMCBMixinPlugin",
+  "refmap": "mixins.lmcb.refmap.json",
+  "mixins": [
+    "block.TerrestrialAgglomerationPlateBlockEntityMixin",
+    "block.RunicAltar.RunicAltarBlockEntityHudMixin",
+    "block.RunicAltar.RunicAltarBlockEntityMixin",
+    "block.RunicAltar.RunicAltarEmiRecipeMixin",
+    "block.RunicAltar.RunicAltarRecipeMixin",
+    "block.RunicAltar.RunicAltarRecipeSerializerMixin",
+    "functflower.TigerseyeBlockEntityMixin",
+    "misc.PlayerMoverEntityMixin"
+  ],
+  "client": [
+  ],
+  "server": []
+}

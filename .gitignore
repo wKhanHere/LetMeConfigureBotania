@@ -1,0 +1,7 @@
+/run/
+/src/generated/resources/.cache/
+/run-data/logs/
+/build/
+/.idea/
+/run-data/
+/.gradle/
