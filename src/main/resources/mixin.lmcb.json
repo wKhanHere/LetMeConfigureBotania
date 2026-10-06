@@ -6,7 +6,6 @@
   "plugin": "net.wkhan.lmcb.mixin.LMCBMixinPlugin",
   "refmap": "mixins.lmcb.refmap.json",
   "mixins": [
-    "block.TerrestrialAgglomerationPlateBlockEntityMixin",
     "block.RunicAltar.RunicAltarBlockEntityHudMixin",
     "block.RunicAltar.RunicAltarBlockEntityMixin",
     "block.RunicAltar.RunicAltarEmiRecipeMixin",

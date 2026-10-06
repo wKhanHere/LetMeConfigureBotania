@@ -19,8 +19,8 @@
   },
   "symbol_map": {
     "P": "botania:terra_plate",
-    "X": "botania:livingrock",
-    "0": "minecraft:dirt",
-    "L": "minecraft:stone"
+    "X": "minecraft:lapis_block",
+    "0": "botania:manasteel_block",
+    "L": "botania:livingrock"
   }
 }
